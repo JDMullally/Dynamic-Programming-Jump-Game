@@ -13,11 +13,17 @@ The rules to the problem are as follows:
      Your character can use the super jump at any time, but it always must charge.  Find the best possible
      score given the input and game parameters.
 
-Running this Program
+Running this Program:
 1. Download the .java and .txt files
 2. Go to the folder holding the files in terminal
 3. Run javac on either java file to compile them
 4. Run java filename < 455.txt to get the answer 455
+
+Alternative method:
+1. Download the .class and .txt files
+2. Go to the folder holding the files in terminal
+3. Run java filename  455.tx to get the answer 455
+
 
 
 This program will give the optimal value for any text file of integers.
